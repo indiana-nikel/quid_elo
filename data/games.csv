@@ -1,0 +1,66 @@
+date,tournament,team_a,team_b,winner
+9/22/2018,1,University of Guelph Gryphons,Royal City Quidditch,University of Guelph Gryphons
+9/22/2018,1,University of Guelph Gryphons,Valfreyja Quidditch,University of Guelph Gryphons
+9/22/2018,1,University of Guelph Gryphons,Valhalla Quidditch,Valhalla Quidditch
+9/22/2018,1,Valfreyja Quidditch,Royal City Quidditch,Valfreyja Quidditch
+9/22/2018,1,Valhalla Quidditch,Royal City Quidditch,Valhalla Quidditch
+9/22/2018,1,Valhalla Quidditch,Valfreyja Quidditch,Valhalla Quidditch
+9/23/2018,1,Valhalla Quidditch,Royal City Quidditch,Valhalla Quidditch
+9/23/2018,1,University of Guelph Gryphons,Valfreyja Quidditch,Valfreyja Quidditch
+9/23/2018,1,University of Guelph Gryphons,Royal City Quidditch,University of Guelph Gryphons
+9/23/2018,1,Valhalla Quidditch,Valfreyja Quidditch,Valhalla Quidditch
+9/29/2018,1,Canada's Finest Quidditch Club,Ottawa Otters,Ottawa Otters
+9/29/2018,1,Universite de Montreal,Valfreyja Quidditch,Valfreyja Quidditch
+9/29/2018,1,Valhalla Quidditch,McGill Quidditch,Valhalla Quidditch
+9/29/2018,1,Canada's Finest Quidditch Club,uOttawa Quidditch,uOttawa Quidditch
+9/29/2018,1,Ottawa Otters,Valfreyja Quidditch,Ottawa Otters
+9/29/2018,1,Valhalla Quidditch,Universite de Montreal,Valhalla Quidditch
+9/29/2018,1,McGill Quidditch,uOttawa Quidditch,uOttawa Quidditch
+9/29/2018,1,Canada's Finest Quidditch Club,uOttawa Quidditch,uOttawa Quidditch
+9/29/2018,1,Ottawa Otters,Universite de Montreal,Ottawa Otters
+9/29/2018,1,McGill Quidditch,Valfreyja Quidditch,Valfreyja Quidditch
+9/29/2018,1,Valhalla Quidditch,Valfreyja Quidditch,Valhalla Quidditch
+9/29/2018,1,Ottawa Otters,uOttawa Quidditch,Ottawa Otters
+9/29/2018,1,Valhalla Quidditch,Ottawa Otters,Valhalla Quidditch
+10/13/2018,2,Carleton Ravens,UofT Centaurs,UofT Centaurs
+10/13/2018,2,Ottawa Otters,Queen's Quidditch,Ottawa Otters
+10/13/2018,2,Valhalla Quidditch,University of Guelph Gryphons,Valhalla Quidditch
+10/13/2018,2,Ottawa Otters,Valhalla Quidditch,Valhalla Quidditch
+10/13/2018,2,Canada's Finest Quidditch Club,Valhalla Quidditch,Valhalla Quidditch
+10/13/2018,2,Canada's Finest Quidditch Club,UofT Centaurs,UofT Centaurs
+10/13/2018,2,uOttawa Quidditch,Canada's Finest Quidditch Club,uOttawa Quidditch
+10/13/2018,2,McGill Quidditch,Royal City Quidditch,McGill Quidditch
+10/13/2018,2,Valhalla Quidditch,University of Guelph Gryphons,University of Guelph Gryphons
+10/13/2018,2,uOttawa Quidditch,Valhalla Quidditch,Valhalla Quidditch
+10/13/2018,2,Ottawa Otters,Royal City Quidditch,Ottawa Otters
+10/13/2018,2,Ottawa Otters,McGill Quidditch,Ottawa Otters
+10/13/2018,2,Queen's Quidditch,McGill Quidditch,Queen's Quidditch
+10/13/2018,2,UofT Centaurs,University of Guelph Gryphons,University of Guelph Gryphons
+10/13/2018,2,Ottawa Otters,Queen's Quidditch,Ottawa Otters
+10/13/2018,2,Queen's Quidditch,Royal City Quidditch,Queen's Quidditch
+10/13/2018,2,uOttawa Quidditch,McGill Quidditch,McGill Quidditch
+10/13/2018,2,Canada's Finest Quidditch Club,Royal City Quidditch,Royal City Quidditch
+10/13/2018,2,Carleton Ravens,University of Guelph Gryphons,University of Guelph Gryphons
+10/13/2018,2,Carleton Ravens,UofT Centaurs,Carleton Ravens
+10/13/2018,2,Carleton Ravens,uOttawa Quidditch,Carleton Ravens
+10/20/2018,3,Edmonton Aurors Quidditch Club,Sabertooths Quidditch Club,Edmonton Aurors Quidditch Club
+10/20/2018,3,Sabertooths Quidditch Club,Edmonton Aurors Quidditch Club,Edmonton Aurors Quidditch Club
+10/20/2018,3,Sabertooths Quidditch Club,Edmonton Aurors Quidditch Club,Edmonton Aurors Quidditch Club
+10/27/2018,4,UofT Centaurs,Royal City Quidditch,Royal City Quidditch
+10/27/2018,4,University of Guelph Gryphons,Carleton Ravens,University of Guelph Gryphons
+10/27/2018,4,Waterloo Ridgebacks,Royal City Quidditch,Royal City Quidditch
+10/27/2018,4,University of Guelph Gryphons,UofT Centaurs,University of Guelph Gryphons
+10/27/2018,4,Waterloo Ridgebacks,Carleton Ravens,Carleton Ravens
+10/27/2018,4,University of Guelph Gryphons,Royal City Quidditch,University of Guelph Gryphons
+10/27/2018,4,UofT Centaurs,Carleton Ravens,Carleton Ravens
+10/27/2018,4,Waterloo Ridgebacks,University of Guelph Gryphons,University of Guelph Gryphons
+10/27/2018,4,Royal City Quidditch,Carleton Ravens,Carleton Ravens
+10/27/2018,4,Waterloo Ridgebacks,UofT Centaurs,Waterloo Ridgebacks
+10/27/2018,4,Vancouver Storm Crows Quidditch Club,SFU Quidditch,Vancouver Storm Crows Quidditch Club
+10/27/2018,4,University of Victoria Valkyries,Vancouver Storm Crows Quidditch Club,Vancouver Storm Crows Quidditch Club
+10/27/2018,4,UBC Thunderbirds SC,UBC Quidditch Club,UBC Thunderbirds SC
+10/27/2018,4,SFU Quidditch,UBC Quidditch Club,SFU Quidditch
+10/27/2018,4,SFU Quidditch,UBC Thunderbirds SC,SFU Quidditch
+10/27/2018,4,UBC Quidditch Club,University of Victoria Valkyries,UBC Quidditch Club
+10/27/2018,4,UBC Quidditch Club,Vancouver Storm Crows Quidditch Club,Vancouver Storm Crows Quidditch Club
+10/27/2018,4,University of Victoria Valkyries,UBC Thunderbirds SC,University of Victoria Valkyries
